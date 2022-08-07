@@ -1,0 +1,7 @@
+{
+  "name": "Jate",
+  "short_name": "Jate",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "."
+}
