@@ -1,0 +1,10 @@
+{
+  "name": "JATE",
+  "short_name": "JATE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "JATE is a web application for managing your time.",
+  "background_color": "#0000ff",
+  "theme_color": "#0000ff"
+}

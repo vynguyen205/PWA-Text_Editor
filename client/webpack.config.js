@@ -39,11 +39,11 @@ module.exports = () => {
         background_color: '#0000ff',
         theme_color: '#0000ff',
 
-        icons: [{
-          src: path.resolve(__dirname, './src/images/logo.png'),
-          sizes: [192,512],
-          // destination: path.join('assets', 'icons'),
-        }]
+        // icons: [{
+        //   src: path.resolve('src/images/logo.png'),
+        //   sizes: [96, 128, 192, 256, 384, 512],
+        //   destination: path.join('assets', 'icons'),
+        // }]
         
       }),
       new MiniCssExtractPlugin({}),
